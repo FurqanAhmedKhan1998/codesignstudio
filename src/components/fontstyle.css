@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Mostin-Black';
+    src: url('../fonts/Mostin-Black.ttf') format('truetype');
+    
+  }
+  
+  @font-face {
+    font-family: 'MostinLight-jEJWO';
+    src: url('../fonts/MostinLight-jEJWO.otf') format('truetype');
+    
+  }
+
+  @font-face {
+    font-family: 'MostinThin-x3pxV';
+    src: url('../fonts/MostinThin-x3pxV.ttf') format('truetype');
+    
+  }
